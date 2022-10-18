@@ -1,5 +1,11 @@
 
-# .NET Framework versions
+# .NET Framework
+
+.NET Framework is a technology supports building and running Windows applications and web services.
+
+[Source](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview)
+
+## .NET Framework versions
 
 |   Version Name              |
 |-----------------------------|
@@ -21,7 +27,7 @@
 | .NET Framework 1.1          |
 | .NET Framework 1.0          |
 
-
+[Source](https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies#version-information)
 
 # Data types
 
