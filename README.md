@@ -1,7 +1,7 @@
 
 # .NET Framework
 
-.NET Framework is a technology supports building and running Windows applications and web services.
+.NET Framework is a technology developed by Microsoft, in 13 February 2002 that supports building and running Windows applications and web services.
 
 [Source](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview)
 
