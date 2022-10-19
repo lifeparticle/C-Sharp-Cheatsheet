@@ -1,3 +1,21 @@
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Reserved Words](#reserved-words)
+- [Comment](#comment)
+- [Operators](#operators)
+- [Variables and Scope](#variables-and-scope)
+- [Conditional structures](#conditional-structures)
+- [Data types](#data-types)
+- [Array](#array)
+- [Hash](#hash)
+- [Loop](#loop)
+- [Classes](#classes)
+- [Miscellaneous](#miscellaneous)
+- [My C# Articles](#my-c%23-articles)
+- [Books and other resources](#books-and-other-resources)
+- [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
+- [Contribution Guidelines](#contribution-guidelines)
+
 # Introduction
 
 C# (pronounced "See Sharp") is a programming language developed by Microsoft in 2002.
