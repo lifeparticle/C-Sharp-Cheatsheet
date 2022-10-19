@@ -29,6 +29,22 @@
 
 [Source](https://learn.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies#version-information)
 
+# .Net Core
+
+## .Net Core versions
+
+|   Version Name      |
+|---------------------|
+| .NET Core 3.1       |
+| .NET Core 3.0       |
+| .NET Core 2.2       |
+| .NET Core 2.1       |
+| .NET Core 2.0       |
+| .NET Core 1.1       |
+| .NET Core 1.0       |
+
+[Source](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core)
+
 # Data types
 
 | No  | Name      | Example                                                                                                        | Doc                                                                 | Data Type          |
