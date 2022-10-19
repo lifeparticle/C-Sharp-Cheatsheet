@@ -49,7 +49,7 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 |  camelCase      |   variables, parameters     | studentName |
 |  pascalCase      |   classes, methods, fields          |  StdentName | 
 |  IPascalCase      |  interfaces      | IStdentName  |
-| \_camelCase   |   private fields      |   _studentName | 
+| \_camelCase   |   private fields      |   \_studentName | 
 
 
 # Comment
