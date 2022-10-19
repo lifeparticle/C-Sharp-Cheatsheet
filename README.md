@@ -41,6 +41,17 @@ public, readonly, ref, return, sbyte, sealed, short, sizeof, stackalloc, static,
 true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void, volatile, while
 ```
 
+# Naming conventions
+
+
+|   Name     |  Types |     Examples         |
+|------|------|------|
+|  camelCase      |   variables, parameters     | studentName |
+|  pascalCase      |   classes, methods, fields          |  StdentName | 
+|  IPascalCase      |  interfaces      | IStdentName  |
+| \_camelCase   |   private fields      |   _studentName | 
+
+
 # Comment
 
 
