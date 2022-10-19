@@ -85,3 +85,8 @@ Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(data[i], Newtonsof
 ```
 
 2.
+
+
+
+# Resources
+1. https://github.com/dotnet/core
