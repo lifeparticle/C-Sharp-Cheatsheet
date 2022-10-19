@@ -2,7 +2,21 @@
 
 C# (pronounced "See Sharp") is a programming language developed by Microsoft in 2002.
 
-# Data types
+# Installation
+
+TODO
+
+
+# Reserved Words
+
+
+# Comment
+
+
+# Operators
+
+# Variables and Scope
+
 
 | No  | Name      | Example                                                                                                        | Doc                                                                 | Data Type          |
 | --- | --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------ |
@@ -15,12 +29,21 @@ C# (pronounced "See Sharp") is a programming language developed by Microsoft in 
 | 7   | undefined | `let a = undefined`                                                                                            | [link](https://developer.mozilla.org/en-US/docs/Glossary/undefined) | Primitive data     |
 | 8   | Object    | `let a = {a: 'test'}`                                                                                          | [link](https://developer.mozilla.org/en-US/docs/Glossary/Object)    | Non-primitive data |
 
+# Conditional structures
 
+# Data types
 
+How to check the data type
 
+# Array
 
+# Hash
 
-#####
+# Loop
+
+# Classes
+
+# Miscellaneous
 
 1. Format JSON
 
@@ -30,7 +53,11 @@ Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(data[i], Newtonsof
 
 2.
 
+# My C# Articles
 
-
-# Resources
+# Books and other resources
 1. https://github.com/dotnet/core
+
+# Bug Reports and Feature Requests
+
+# Contribution Guidelines
