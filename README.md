@@ -1,3 +1,7 @@
+# Introduction
+
+C# (pronounced "See Sharp") is a programming language developed by Microsoft in 2002.
+
 # Data types
 
 | No  | Name      | Example                                                                                                        | Doc                                                                 | Data Type          |
