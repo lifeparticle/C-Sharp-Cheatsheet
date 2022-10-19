@@ -31,6 +31,8 @@
 
 # .Net Core
 
+Developed by Microsoft in June 27, 2016.
+
 ## .Net Core versions
 
 |   Version Name      |
@@ -44,6 +46,17 @@
 | .NET Core 1.0       |
 
 [Source](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core)
+
+# .Net
+
+Developed by Microsoft in November 10, 2020.
+
+## .Net versions
+
+|   Version Name      |
+|---------------------|
+| .NET 6              |
+| .NET 5              |
 
 # Data types
 
