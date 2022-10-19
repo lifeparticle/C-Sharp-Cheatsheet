@@ -18,7 +18,7 @@
 
 # Introduction
 
-C# (pronounced "See Sharp") is a programming language developed by Microsoft in 2002.
+C# (pronounced "See Sharp") is a strongly-typed programming language developed by Microsoft in 2002.
 
 # Installation
 
