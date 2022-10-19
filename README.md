@@ -40,6 +40,85 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 
 # Operators
 
+
+<table>
+<tr>
+<th>Boolean logical operators</th>
+<th>Bitwise and shift operators</th>
+<th>Arithmetic operators</th>
+<th>Equality operators</th>
+<th>Comparison operators</th>
+</tr>
+<tr>
+
+<td valign="top">
+
+| No  | Operator |
+| --- | -------- |
+| 1   | &|
+| 2   |  \|       |
+| 3   | ^ |
+| 4   | &&       |
+| 5   | \|\|     |
+| 6   | !        |
+
+</td>
+
+<td valign="top">
+
+| No  | Operator |
+| --- | -------- |
+| 1   | &        |
+| 2   | \|       |
+| 3   | ^        |
+| 4   | ~        |
+| 5   | <<       |
+| 6   | >>       |
+| 7   | >>>       |
+
+</td>
+
+<td valign="top">
+
+| No  | Operator |
+| --- | -------- |
+| 1   | +        |
+| 2   | -        |
+| 3   | \*       |
+| 4   | /        |
+| 5   | %        |
+| 6   | \+\+     |
+| 7   | \-\-     |
+
+</td>
+
+<td valign="top">
+
+| No  | Operator |
+| --- | -------- |
+| 1   | ==        |
+| 2   | !=       |
+
+
+</td>
+
+<td valign="top">
+
+| No  | Operator |
+| --- | -------- |
+| 1   | >        |
+| 2   | <        |
+| 3   | >=       |
+| 4   | <=       |
+
+
+</td>
+
+</tr></table>
+
+
+
+
 # Variables and Scope
 
 
