@@ -44,7 +44,7 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 # Naming conventions
 
 
-|   Name     |  Types |     Examples         |
+|   Name     |  Types |     Example         |
 |------|------|------|
 |  camelCase      |   variables, parameters     | studentName |
 |  pascalCase      |   classes, methods, fields          |  StdentName | 
