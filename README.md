@@ -153,7 +153,7 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 | 9  | uint    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt32  |
 | 10 | nint    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.IntPtr  |
 | 11 | nuint   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UIntPtr |
-| 12 | long    | `System.Int32 b = 123;`     | [link](https://developer.mozilla.org/en-US/docs/Glossary/Object)                                                          | value     | System.Int64   |
+| 12 | long    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)                                                          | value     | System.Int64   |
 | 13 | ulong   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt64  |
 | 14 | short   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.Int16   |
 | 15 | ushort  | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt16  |
