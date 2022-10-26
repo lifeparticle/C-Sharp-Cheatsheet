@@ -156,9 +156,9 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 | 13 | ulong   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.UInt64  |
 | 14 | short   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.Int16   |
 | 15 | ushort  | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt16  |
-| 16 | object  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-object-type)  | value     | System.Object  |
-| 17 | string  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-string-type)  | value     | System.String  |
-| 18 | dynamic | `dynamic a = 1;`            | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type) | value     | System.Object  |
+| 16 | object  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-object-type)  | reference     | System.Object  |
+| 17 | string  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-string-type)  | reference     | System.String  |
+| 18 | dynamic | `dynamic a = 1;`            | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type) | reference     | System.Object  |
 
 
 
