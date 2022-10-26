@@ -139,27 +139,28 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 
 # Variables and Scope
 
-
 | No | Name    | Example                     | Doc                                                                                                                       | Data Type | .NET type      |
 |----|---------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|----------------|
 | 1  | bool    | `bool isVisible = true;`    | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool)                             | value     | System.Boolean |
 | 2  | byte    | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.Byte    |
 | 3  | sbyte   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.SByte   |
-| 4  | char    | `char myLetter = 'D';`      | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/char)                             | value     | System.Char    |
-| 5  | decimal | `let sym = Symbol()`        | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)     | value     | System.Decimal |
+| 4  | char    | `char a = 'A';`             | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/char)                             | value     | System.Char    |
+| 5  | decimal | `double a = 1.1;`           | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)     | value     | System.Decimal |
 | 6  | double  | `double a = 1.1;`           | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)     | value     | System.Double  |
 | 7  | float   | `double a = 1.1;`           | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)     | value     | System.Single  |
-| 8  | int     | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.Int32   |
-| 9  | uint    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt32  |
-| 10 | nint    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.IntPtr  |
-| 11 | nuint   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UIntPtr |
-| 12 | long    | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)                                                          | value     | System.Int64   |
-| 13 | ulong   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt64  |
-| 14 | short   | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.Int16   |
-| 15 | ushort  | `System.Int32 b = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt16  |
+| 8  | int     | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.Int32   |
+| 9  | uint    | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.UInt32  |
+| 10 | nint    | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.IntPtr  |
+| 11 | nuint   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.UIntPtr |
+| 12 | long    | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.Int64   |
+| 13 | ulong   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.UInt64  |
+| 14 | short   | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/auiltin-types/integral-numeric-types)           | value     | System.Int16   |
+| 15 | ushort  | `System.Int32 a = 123;`     | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)           | value     | System.UInt16  |
 | 16 | object  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-object-type)  | value     | System.Object  |
 | 17 | string  | `string a = "hello world";` | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-string-type)  | value     | System.String  |
-| 18 | dynamic | `dynamic dyn = 1;`          | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type) | value     | System.Object  |
+| 18 | dynamic | `dynamic a = 1;`            | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type) | value     | System.Object  |
+
+
 
 
 # Conditional structures
