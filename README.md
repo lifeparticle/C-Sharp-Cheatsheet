@@ -161,7 +161,7 @@ true, try, typeof, uint, ulong, unchecked, unsafe, ushort, using, virtual, void,
 | 18 | dynamic | `dynamic a = 1;`            | [link](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types#the-dynamic-type) | reference     | System.Object  |
 
 
-
+## Difference between var and dynamic
 
 # Conditional structures
 
