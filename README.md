@@ -195,3 +195,7 @@ Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(data[i], Newtonsof
 # Bug Reports and Feature Requests
 
 # Contribution Guidelines
+
+# Resources
+
+1. [Engineering@Microsoft Blog](https://devblogs.microsoft.com/engineering-at-microsoft/welcome-to-the-engineering-at-microsoft-blog/)
