@@ -30,4 +30,13 @@ dotnet run --launch-profile https
 dotnet run --launch-profile http
 ```
 
+`http://localhost:5253/todo`
+
+```shell
+dotnet add package NSwag.AspNetCore
+```
+
+- `http://localhost:5253/openapi/v1.json`
+- `http://localhost:5253/swagger/index.html?url=/openapi/v1.json`
+
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio-code
